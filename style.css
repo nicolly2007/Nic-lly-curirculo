@@ -1,0 +1,87 @@
+#foto{
+    width: 190px;
+    height: 155px;
+    border-radius: 60%;
+    margin-top: 10%;
+    margin-bottom: 7%;
+    display: flex;
+
+}
+.cabecalho{
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+    border-style: ridge;
+    width: 40%;
+    display: block;
+}
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 7%;
+}
+#nome{
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+.sobre{
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+    border-style: ridge;
+    width: 40%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 7%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+.formacao{
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+    border-style: ridge;
+    width: 40%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 7%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+.mechama{
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+    border-style: ridge;
+    width: 40%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 7%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+.objetivo{
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+    border-style: ridge;
+    width: 40%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 7%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
